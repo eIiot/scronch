@@ -5,3 +5,7 @@
 path {
   overflow: scroll;
 }
+
+a {
+  cursor: pointer;
+}
